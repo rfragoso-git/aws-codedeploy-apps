@@ -1,2 +1,4 @@
+.gitignore
 Ubuntu-Deploy.sh
 awscodedeploy.zip
+/evidencias
